@@ -3,3 +3,29 @@ historia.txt
 Hola mundo
 
 Este es la primera línea de codigo 
+
+    Los pasos para poder utilizar git
+
+    pwd 
+    para visualizar en que carpeta estamos
+
+    -cd "Nombre de carpeta"sq
+    Para ir a una dirección
+
+    - Para crear una carpeta 
+    mkdir "Nombre de la carpeta"
+
+    - Crear un archivo para guardarlo en la carpeta
+
+    - git init
+    para inicializar git
+
+    - git add .
+    para ponder en track
+
+    - git status 
+    para ver la situación del archivo
+
+    -git commit -m  "Nombre commit" 
+    para añadir el cambio y enviarlo a master
+
